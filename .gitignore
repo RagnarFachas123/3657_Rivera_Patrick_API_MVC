@@ -1,0 +1,12 @@
+# datos sensibles
+.env
+
+# dependencias
+/vendor
+/node_modules
+
+# sistema / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
